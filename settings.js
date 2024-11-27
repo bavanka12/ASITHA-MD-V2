@@ -6,20 +6,36 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=SvxDVArJ#UdfSYI0n_M5WZlRER9c5vcSxfDSliIxWsz1yAKbJ43g' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
-ALIVE_MSG: process.env.ALIVE_MSG === undefined ? "https://wa.me/+940760334624?text=🙈𝗛𝗲𝘆🕊️sithu🤭bhh💗👀✨" : process.env.ALIVE_MSG,
+ALIVE_MSG: process.env.ALIVE_MSG === undefined ? "http://wa.me/+940760334624?text=🙈𝗛𝗲𝘆🕊️sithu🤭bhh💗👀✨
+
+
+*𝐍𝐚𝐦𝐞 - sithu bhh💗*
+*𝐀𝐠𝐞  _ 18🌸*
+*𝐅𝐫𝐨𝐦  - kaluthara💗*
+
+*SEX- girl 💗*
+
+*save pls* 💗
+ 
+*🍂 ok "Ｆᴏʀ ＳᴛΔᵀᴜs Ｖɪᴠᴇs 🙁*
+*🍂 "Nɪᴄᴇ Tᴏ Mᴇᴇᴛ Yᴏᴜ" 🫂💎°*
+*🍂 "Fᴏʀ Sᴛᴀᴛᴜꜱ Vɪᴡᴇꜱ &" Fʀɪᴇɴᴅꜱʜɪᴘ" 🤝*
+ 
+  ♡           ❍ㅤ      ⎙ㅤ     ⌲ 
+*ˡᶦᵏᵉ*     *ᶜᵒᵐᵐᵉⁿᵗ*     *ˢᵃᵛᵉ*     *ˢʰᵃʳᵉ*" : process.env.ALIVE_MSG,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
 MODE: process.env.MODE === undefined ?"public" : process.env.MODE,
-AUTO_VOICE: process.env.AUTO_VOICE === undefined ? "false" : process.env.AUTO_VOICE,
+AUTO_VOICE: process.env.AUTO_VOICE === undefined ? "ture" : process.env.AUTO_VOICE,
 AUTO_REPLY: process.env.AUTO_REPLY === undefined ? "false" : process.env.AUTO_REPLY,
 AUTO_STICKER: process.env.AUTO_STICKER === undefined ? "true" : process.env.AUTO_STICKER,
-ANTI_BAD: process.env.ANTI_BAD === undefined ? "false" : process.env.ANTI_BAD,
+ANTI_BAD: process.env.ANTI_BAD === undefined ? "ture" : process.env.ANTI_BAD,
 ANTI_LINK: process.env.ANTI_LINK === undefined ? "true" : process.env.ANTI_LINK,
 ANTI_BOT: process.env.ANTI_BOT === undefined ? "true" : process.env.ANTI_BOT,
 ALLWAYS_OFFLINE: process.env.ALLWAYS_OFFLINE === undefined ? "false" : process.env.ALLWAYS_OFFLINE,
 READ_CMD: process.env.READ_CMD === undefined ? "true" : process.env.READ_CMD,
 RECORDING: process.env.RECORDING === undefined ? "true" : process.env.RECORDING,
 AI_CHAT: process.env.AI_CHAT === undefined ? "false" : process.env.AI_CHAT,
-AUTO_REACT: process.env.AUTO_REACT === undefined ? "false" : process.env.AUTO_REACT,
+AUTO_REACT: process.env.AUTO_REACT === undefined ? "tureg" : process.env.AUTO_REACT,
 NEWS_JID: process.env.NEWS_JID === undefined ? "" : process.env.NEWS_JID,
 SEEDER_GMAIL: process.env.SEEDER_GMAIL === undefined ? "promodbavanka123@gmail.com" : process.env.SEEDER_GMAIL,
 SEEDER_PASSWORD: process.env.SEEDER_PASSWORD === undefined ? "" : process.env.SEEDER_PASSWORD,
